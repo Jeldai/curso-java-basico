@@ -66,7 +66,7 @@ Verifique se é apresentada a versão do JDK que você instalou.
 * Aprenda a realizar o download de uma IDE de Desenvolvimento Java e inicie seu progresso profissional jovem Padawan.
 
 ### `Mestre Jeldai!`
-> "Esteja atento à Força viva, meu jovem Padawan."
+> "Esteja atento à Força do Java, meu jovem Padawan."
 
 [oracle]: <http://www.oracle.com/technetwork/java/javase/downloads/index.html>
    
